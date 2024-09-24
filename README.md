@@ -8,4 +8,6 @@ cd Assignment-5
 
 $ start fancifymytext.html
 
+![image](https://github.com/user-attachments/assets/651960c2-5dcc-461e-9ad2-195bcc9f145d)
+
 
